@@ -1,0 +1,7 @@
+[Host: omg.test]
+[Connection: Keep-Alive]
+[Cookie: sessionid=sessionid]
+/bigfile/1.txt
+/bigfile/2.txt
+/bigfile/3.txt
+/bigfile/4.txt

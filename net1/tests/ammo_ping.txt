@@ -1,0 +1,7 @@
+105 ping
+GET /ping HTTP/1.0
+Connection: close
+Host: omg.test
+Connection: Keep-Alive
+Cookie: sessionid=sessionid;
+

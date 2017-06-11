@@ -1,0 +1,23 @@
+2017-06-10 14:35:31.428 +0000 [info] [] Start
+2017-06-10 14:36:12.195 +0000 [error] [phantom_logger] bq_sleep: Operation canceled
+2017-06-10 14:36:12.196 +0000 [error] [benchmark_io stream_method brief_logger] bq_sleep: Operation canceled
+2017-06-10 14:36:12.196 +0000 [error] [monitor_io] bq_sleep: Operation canceled
+2017-06-10 14:36:12.196 +0000 [error] [monitor_io] bq_sleep: Operation canceled
+2017-06-10 14:36:12.196 +0000 [error] [benchmark_io 092] readv: Operation canceled
+2017-06-10 14:36:12.232 +0000 [error] [benchmark_io 093] readv: Operation canceled
+2017-06-10 14:36:12.269 +0000 [error] [benchmark_io 094] readv: Operation canceled
+2017-06-10 14:36:12.305 +0000 [error] [benchmark_io 095] readv: Operation canceled
+2017-06-10 14:36:12.338 +0000 [error] [benchmark_io 096] readv: Operation canceled
+2017-06-10 14:36:12.367 +0000 [error] [benchmark_io 097] readv: Operation canceled
+2017-06-10 14:36:12.391 +0000 [error] [benchmark_io 098] readv: Operation canceled
+2017-06-10 14:36:12.413 +0000 [error] [benchmark_io 099] readv: Operation canceled
+2017-06-10 14:36:12.432 +0000 [error] [benchmark_io 100] readv: Operation canceled
+2017-06-10 14:36:12.448 +0000 [error] [benchmark_io 101] readv: Operation canceled
+2017-06-10 14:36:12.461 +0000 [error] [benchmark_io 102] readv: Operation canceled
+2017-06-10 14:36:12.471 +0000 [error] [benchmark_io 103] readv: Operation canceled
+2017-06-10 14:36:12.480 +0000 [error] [benchmark_io 104] readv: Operation canceled
+2017-06-10 14:36:12.487 +0000 [error] [benchmark_io 105] readv: Operation canceled
+2017-06-10 14:36:12.492 +0000 [error] [benchmark_io 106] readv: Operation canceled
+2017-06-10 14:36:12.495 +0000 [error] [benchmark_io 107] readv: Operation canceled
+2017-06-10 14:36:12.497 +0000 [error] [benchmark_io 108] readv: Operation canceled
+2017-06-10 14:36:12.513 +0000 [info] [] Exit

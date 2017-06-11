@@ -1,0 +1,97 @@
+2017-06-10 21:44:08,233 [INFO] agent:379 Init
+2017-06-10 21:44:08,233 [INFO] agent:383 Trying to make telegraf executable: /tmp/telegraf
+2017-06-10 21:44:08,233 [INFO] agent:393 Trying to make customs script executable: /tmp/tmpj28mbr/agent_customs.sh
+2017-06-10 21:44:08,233 [INFO] agent:233 Successfully loaded startup config.
+Startups: []
+Shutdowns: []
+
+2017-06-10 21:44:08,233 [INFO] agent:405 Starting AgentWorker: <AgentWorker(Thread-1, initial daemon)>
+2017-06-10 21:44:08,233 [DEBUG] agent:409 Check for any stdin command for shutdown
+2017-06-10 21:44:08,233 [INFO] agent:239 Running startup commands
+2017-06-10 21:44:08,233 [INFO] agent:246 Starting metrics collector..
+2017-06-10 21:44:08,235 [INFO] agent:250 Started with pid 8391
+2017-06-10 21:44:08,235 [INFO] agent:258 Waiting for telegraf...
+2017-06-10 21:44:09,237 [INFO] agent:258 Waiting for telegraf...
+2017-06-10 21:44:10,240 [INFO] telegraf:306 STDERR: 2017-06-10T21:44:08Z I! Starting Telegraf (version 1.3.0)
+2017-06-10 21:44:10,240 [INFO] telegraf:306 STDERR: 2017-06-10T21:44:08Z I! Loaded outputs: file
+2017-06-10 21:44:10,240 [INFO] telegraf:306 STDERR: 2017-06-10T21:44:08Z I! Loaded inputs: inputs.cpu inputs.mem inputs.exec
+2017-06-10 21:44:10,240 [INFO] telegraf:306 STDERR: 2017-06-10T21:44:08Z I! Tags enabled: host=ubuntu-xenial
+2017-06-10 21:44:10,240 [INFO] telegraf:306 STDERR: 2017-06-10T21:44:08Z I! Agent Config: Interval:1s, Quiet:false, Hostname:"ubuntu-xenial", Flush Interval:1s 
+2017-06-10 21:44:12,244 [DEBUG] agent:144 Now in buffer: [1497131049, 1497131050, 1497131051]
+2017-06-10 21:44:12,746 [DEBUG] agent:144 Now in buffer: [1497131050, 1497131051, 1497131052]
+2017-06-10 21:44:13,244 [DEBUG] agent:286 send 127 bytes of data to collector
+2017-06-10 21:44:13,245 [DEBUG] agent:286 send 416 bytes of data to collector
+2017-06-10 21:44:13,748 [DEBUG] agent:144 Now in buffer: [1497131051, 1497131052, 1497131053]
+2017-06-10 21:44:14,247 [DEBUG] agent:286 send 447 bytes of data to collector
+2017-06-10 21:44:15,752 [DEBUG] agent:144 Now in buffer: [1497131052, 1497131053, 1497131054, 1497131055]
+2017-06-10 21:44:16,249 [DEBUG] agent:286 send 462 bytes of data to collector
+2017-06-10 21:44:16,249 [DEBUG] agent:286 send 447 bytes of data to collector
+2017-06-10 21:44:17,255 [DEBUG] agent:144 Now in buffer: [1497131056, 1497131054, 1497131055]
+2017-06-10 21:44:18,252 [DEBUG] agent:286 send 416 bytes of data to collector
+2017-06-10 21:44:18,758 [DEBUG] agent:144 Now in buffer: [1497131056, 1497131057, 1497131058, 1497131055]
+2017-06-10 21:44:19,253 [DEBUG] agent:286 send 463 bytes of data to collector
+2017-06-10 21:44:19,254 [DEBUG] agent:286 send 462 bytes of data to collector
+2017-06-10 21:44:19,760 [DEBUG] agent:144 Now in buffer: [1497131057, 1497131058, 1497131059]
+2017-06-10 21:44:20,255 [DEBUG] agent:286 send 462 bytes of data to collector
+2017-06-10 21:44:21,763 [DEBUG] agent:144 Now in buffer: [1497131058, 1497131059, 1497131060, 1497131061]
+2017-06-10 21:44:22,258 [DEBUG] agent:286 send 478 bytes of data to collector
+2017-06-10 21:44:22,259 [DEBUG] agent:286 send 478 bytes of data to collector
+2017-06-10 21:44:22,765 [DEBUG] agent:144 Now in buffer: [1497131060, 1497131061, 1497131062]
+2017-06-10 21:44:23,260 [DEBUG] agent:286 send 480 bytes of data to collector
+2017-06-10 21:44:24,269 [DEBUG] agent:144 Now in buffer: [1497131061, 1497131062, 1497131063, 1497131064]
+2017-06-10 21:44:25,262 [DEBUG] agent:286 send 463 bytes of data to collector
+2017-06-10 21:44:25,262 [DEBUG] agent:286 send 462 bytes of data to collector
+2017-06-10 21:44:25,271 [DEBUG] agent:144 Now in buffer: [1497131063, 1497131064, 1497131065]
+2017-06-10 21:44:26,263 [DEBUG] agent:286 send 462 bytes of data to collector
+2017-06-10 21:44:27,274 [DEBUG] agent:144 Now in buffer: [1497131064, 1497131065, 1497131066]
+2017-06-10 21:44:28,266 [DEBUG] agent:286 send 462 bytes of data to collector
+2017-06-10 21:44:28,277 [DEBUG] agent:144 Now in buffer: [1497131065, 1497131066, 1497131067, 1497131068]
+2017-06-10 21:44:29,266 [DEBUG] agent:286 send 463 bytes of data to collector
+2017-06-10 21:44:29,267 [DEBUG] agent:286 send 479 bytes of data to collector
+2017-06-10 21:44:29,278 [DEBUG] agent:144 Now in buffer: [1497131067, 1497131068, 1497131069]
+2017-06-10 21:44:30,268 [DEBUG] agent:286 send 464 bytes of data to collector
+2017-06-10 21:44:31,281 [DEBUG] agent:144 Now in buffer: [1497131068, 1497131069, 1497131070, 1497131071]
+2017-06-10 21:44:32,270 [DEBUG] agent:286 send 480 bytes of data to collector
+2017-06-10 21:44:32,270 [DEBUG] agent:286 send 477 bytes of data to collector
+2017-06-10 21:44:33,285 [DEBUG] agent:144 Now in buffer: [1497131072, 1497131073, 1497131070, 1497131071]
+2017-06-10 21:44:34,274 [DEBUG] agent:286 send 464 bytes of data to collector
+2017-06-10 21:44:34,279 [DEBUG] agent:286 send 464 bytes of data to collector
+2017-06-10 21:44:34,287 [DEBUG] agent:144 Now in buffer: [1497131072, 1497131073, 1497131074]
+2017-06-10 21:44:35,280 [DEBUG] agent:286 send 478 bytes of data to collector
+2017-06-10 21:44:36,290 [DEBUG] agent:144 Now in buffer: [1497131073, 1497131074, 1497131075, 1497131076]
+2017-06-10 21:44:37,283 [DEBUG] agent:286 send 463 bytes of data to collector
+2017-06-10 21:44:37,283 [DEBUG] agent:286 send 480 bytes of data to collector
+2017-06-10 21:44:37,793 [DEBUG] agent:144 Now in buffer: [1497131075, 1497131076, 1497131077]
+2017-06-10 21:44:38,284 [DEBUG] agent:286 send 462 bytes of data to collector
+2017-06-10 21:44:38,796 [DEBUG] agent:144 Now in buffer: [1497131076, 1497131077, 1497131078]
+2017-06-10 21:44:39,286 [DEBUG] agent:286 send 477 bytes of data to collector
+2017-06-10 21:44:39,799 [DEBUG] agent:144 Now in buffer: [1497131077, 1497131078, 1497131079]
+2017-06-10 21:44:40,288 [DEBUG] agent:286 send 464 bytes of data to collector
+2017-06-10 21:44:40,802 [DEBUG] agent:144 Now in buffer: [1497131078, 1497131079, 1497131080]
+2017-06-10 21:44:41,289 [DEBUG] agent:286 send 480 bytes of data to collector
+2017-06-10 21:44:41,805 [DEBUG] agent:144 Now in buffer: [1497131079, 1497131080, 1497131081]
+2017-06-10 21:44:42,296 [DEBUG] agent:286 send 480 bytes of data to collector
+2017-06-10 21:44:43,311 [DEBUG] agent:144 Now in buffer: [1497131080, 1497131081, 1497131082]
+2017-06-10 21:44:44,302 [DEBUG] agent:286 send 478 bytes of data to collector
+2017-06-10 21:44:44,313 [DEBUG] agent:144 Now in buffer: [1497131081, 1497131082, 1497131083]
+2017-06-10 21:44:45,089 [INFO] agent:412 Stdin cmd received: stop
+
+2017-06-10 21:44:45,089 [DEBUG] agent:423 Join the worker thread, waiting for cleanup
+2017-06-10 21:44:45,130 [INFO] agent:340 Terminating startup commands
+2017-06-10 21:44:45,131 [INFO] agent:344 Terminating collector process: <subprocess.Popen object at 0x7f2066c6b450>
+2017-06-10 21:44:45,131 [DEBUG] agent:324 Terminating: 8391
+2017-06-10 21:44:45,132 [INFO] agent:328 Retcode for PID 8391 -15
+2017-06-10 21:44:45,132 [INFO] agent:347 Running shutdown commands
+2017-06-10 21:44:45,132 [INFO] agent:353 Worker thread finished
+2017-06-10 21:44:45,154 [WARNING] agent:22 Got signal 1, going to stop
+2017-06-10 21:44:45,154 [INFO] agent:436 Something nasty happened while waiting for worker shutdown
+Traceback (most recent call last):
+  File "/tmp/tmpj28mbr/agent.py", line 424, in main
+    worker.join(10)
+  File "/usr/lib/python2.7/threading.py", line 951, in join
+    self.__block.wait(delay)
+  File "/usr/lib/python2.7/threading.py", line 359, in wait
+    _sleep(delay)
+  File "/tmp/tmpj28mbr/agent.py", line 23, in signal_handler
+    raise KeyboardInterrupt()
+KeyboardInterrupt

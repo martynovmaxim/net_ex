@@ -1,0 +1,6 @@
+82 calc
+GET /calc HTTP/1.0
+Connection: close
+Host: omg.test
+Cookie: sessionid=sessionid;
+
